@@ -1,0 +1,47 @@
+/* 全体背景色に合わせた柔らかいボックス */
+section {
+    margin: 2rem auto;
+    max-width: 800px;
+    padding: 1.5rem;
+    background-color: #F4F3E6;
+    border-left: 6px solid #98AF79;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+    transition: background-color 0.3s;
+  }
+  
+  /* 見出しにアクセントカラー */
+  section h2 {
+    font-size: 1.6rem;
+    color: #98AF79;
+    margin-bottom: 1rem;
+    font-weight: 600;
+  }
+  
+  /* 箇条書き全体 */
+  section ul {
+    margin-left: 1.5rem;
+    padding-left: 0.5rem;
+    list-style: none;
+  }
+  
+  /* カスタムリストマーカー */
+  section li {
+    position: relative;
+    padding-left: 1.5rem;
+    margin-bottom: 0.75rem;
+    color: #444;
+    line-height: 1.6;
+  }
+  
+  section li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0.5em;
+    width: 0.75em;
+    height: 0.75em;
+    background-color: #DDAD3F;
+    border-radius: 50%;
+  }
+  

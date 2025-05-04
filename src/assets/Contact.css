@@ -1,0 +1,32 @@
+section {
+    margin: 2rem auto;
+    max-width: 800px;
+    padding: 1.5rem;
+    background-color: #F4F3E6;
+    border-left: 6px solid #98AF79;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+  }
+  
+  section h2 {
+    font-size: 1.6rem;
+    color: #98AF79;
+    margin-bottom: 1rem;
+    font-weight: 600;
+  }
+  
+  .contact-info {
+    font-size: 1rem;
+    color: #444;
+  }
+  
+  .contact-info a {
+    color: #DDAD3F;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  
+  .contact-info a:hover {
+    text-decoration: underline;
+  }
+  

@@ -3,6 +3,8 @@ import Profile from './components/Profile'
 import Works from './components/Works'
 import Contact from './components/Contact'
 import './assets/Header.css'
+import './assets/Profile.css'
+import './assets/Works.css'
 
 export default function App() {
   return (
