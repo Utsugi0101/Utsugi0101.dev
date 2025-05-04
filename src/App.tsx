@@ -5,6 +5,8 @@ import Contact from './components/Contact'
 import './assets/Header.css'
 import './assets/Profile.css'
 import './assets/Works.css'
+import './assets/Contact.css'
+import Footer from './components/Footer'
 
 export default function App() {
   return (
@@ -13,6 +15,7 @@ export default function App() {
       <Profile />
       <Works />
       <Contact />
+      <Footer />
     </div>
   )
 }
