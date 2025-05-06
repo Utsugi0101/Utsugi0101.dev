@@ -7,6 +7,7 @@ export default function Profile() {
           <li>筑波大学 情報学群 知識情報・図書館学類 システム主専攻 3年</li>
           <li>誕生日：2005年1月1日(20歳)</li>
           <li>北海道出身</li>
+          <li>筑波大学ケルト音楽愛好会</li>
         </ul>
       </section>
     )
