@@ -5,6 +5,9 @@ export default function Friends() {
         <li>
             <a href="   https://utsugi0101.github.io/utsugi0101/" target="_blank" rel="noopener noreferrer">Utsugi0101</a> - うつぎのポートフォリオサイト
         </li>
+        <li>
+            <a href = "かすしゅく.みんな">かすしゅく.みんな</a>
+        </li>
         </ul>
       </section>
     )
