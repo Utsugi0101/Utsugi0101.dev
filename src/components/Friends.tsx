@@ -8,6 +8,9 @@ export default function Friends() {
         <li>
             <a href = "かすしゅく.みんな">かすしゅく.みんな</a>
         </li>
+        <li>
+            <a href="うつぎ.かすしゅく.みんな>">うつぎ.かすしゅく.みんな</a> - うつぎのかすしゅく.みんな
+        </li>
         </ul>
       </section>
     )
