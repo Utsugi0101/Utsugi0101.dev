@@ -11,3 +11,4 @@ export default function Contact() {
     </section>
   );
 }
+// Compare this snippet from src/components/Contact.tsx:
