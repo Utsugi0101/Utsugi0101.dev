@@ -4,7 +4,7 @@ export default function Pasts() {
         <h2 className="text-2xl font-semibold mb-2">Pasts</h2>
         <ul className="space-y-2">
           <li>SecHack365 思索駆動コース (2025/6〜)</li>
-          <li>株式会社 TOKIUM インターン (2025/6〜)</li>
+          <li>株式会社 TOKIUM インターンシップ (2025/6〜)</li>
           <li>知識情報・図書館学類 システム主専攻 配属 (2025/4)</li>
           <li>Agile PBL祭り2025 登壇 (2025/3)</li>
           <li>筑波大学enPit 優秀賞 (2025/1)</li>
