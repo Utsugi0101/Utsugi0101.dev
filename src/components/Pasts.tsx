@@ -3,6 +3,7 @@ export default function Pasts() {
       <section className="mb-6">
         <h2 className="text-2xl font-semibold mb-2">Pasts</h2>
         <ul className="space-y-2">
+          <li>セキュリティ・キャンプ2025コネクト「AIレッドチーミング・クラス」(2025/9)</li>
           <li>SecHack365 思索駆動コース (2025/6〜)</li>
           <li>株式会社 TOKIUM インターンシップ (2025/6〜)</li>
           <li>知識情報・図書館学類 システム主専攻 配属 (2025/4)</li>
