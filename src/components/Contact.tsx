@@ -3,7 +3,7 @@ export default function Contact() {
     <section>
       <h2 className="text-2xl font-semibold mb-2">Contacts</h2>
       <ul className="contact-list">
-        <li>メール：<a href="soraki0101@gmail.com">soraki0101@gmail.com</a></li>
+        <li>メール：<a href="soraki0101@gmail.com">s2310355@klis.tsukuba.ac.jp</a></li>
         <li>X（旧Twitter）：<a href="https://x.com/Utsugi0101" target="_blank" rel="noopener noreferrer">@Utsugi0101</a></li>
         <li>GitHub：<a href="https://github.com/Utsugi0101" target="_blank" rel="noopener noreferrer">Utsugi0101</a></li>
         <li>note：<a href="https://note.com/utsugi_studio" target="_blank" rel="noopener noreferrer">うつぎ</a></li>
