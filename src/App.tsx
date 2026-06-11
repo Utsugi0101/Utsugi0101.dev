@@ -2,6 +2,7 @@ import Header from './components/Header'
 import Profile from './components/Profile'
 import Pasts from './components/Pasts'
 import Contact from './components/Contact'
+import Friends from './components/Friends'
 import './assets/Header.css'
 import './assets/Profile.css'
 import './assets/Pasts.css'
@@ -15,6 +16,7 @@ export default function App() {
       <Profile />
       <Pasts />
       <Contact />
+      <Friends />
       <Footer />
     </div>
   )
