@@ -10,7 +10,6 @@ export default function Friends() {
             <a href={friend.url} target="_blank" rel="noopener noreferrer">
               {friend.name}
             </a>
-            {friend.description ? ` - ${friend.description}` : null}
           </li>
         ))}
       </ul>
