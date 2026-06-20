@@ -18,6 +18,6 @@ export const friendLinks: FriendLink[] = [
   },
   {
     name: 'ロマノフ',
-    url: 'https://romablog-lime.vercel.app/',
+    url: 'https://romanohu.github.io/',
   },
 ]
